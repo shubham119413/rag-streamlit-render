@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+openai-whisper
+faiss-cpu
+numpy<=1.25
+numba<=0.58
+sentence-transformers
+pypdf
+google-generativeai
+python-dotenv
+moviepy
